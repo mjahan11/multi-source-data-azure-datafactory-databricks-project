@@ -60,7 +60,6 @@ README.md <- Project documentation
 ---
 
 ## Author
-- **Your Name**
 GitHub: [https://github.com/mjahan11](https://github.com/mjahan11)
 
 
