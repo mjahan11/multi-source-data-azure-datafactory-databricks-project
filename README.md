@@ -65,9 +65,11 @@ README.md <- Project documentation
 
 ---
 
-## Results / Screenshots
+## Results / Screenshots:
+# Azure Pipeline Activity:
 <img width="1908" height="787" alt="image" src="https://github.com/user-attachments/assets/d3b1b3c2-baed-4a78-8aa5-535bd71e424b" />
 
+# PowerBI Dashboard: 
 <img width="1900" height="958" alt="image" src="https://github.com/user-attachments/assets/a68b0440-580c-494d-affe-b7bd415fc87d" />
 
 
