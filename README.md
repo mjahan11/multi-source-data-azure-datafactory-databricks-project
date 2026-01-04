@@ -1,6 +1,10 @@
 # multi-source-data-azure-datafactory-databricks-project
 Data engineering project using Azure Data Factory &amp; Databricks
 
+# Medallion Architecture for End-to-End Data Flow
+<img width="1696" height="608" alt="Gemini_Generated_Image_e96d9ae96d9ae96d" src="https://github.com/user-attachments/assets/11b95024-fbe8-42bf-8c46-2507e8697534" />
+
+
 ## Overview
 This project demonstrates how to ingest, transform, and store data from multiple sources using **Azure Data Factory**, **Databricks**, and **Delta Lake**. It follows a **Bronze → Silver → Gold** medallion architecture to ensure clean and structured data pipelines.
 
