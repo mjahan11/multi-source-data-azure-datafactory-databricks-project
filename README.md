@@ -8,6 +8,14 @@ Data engineering project using Azure Data Factory &amp; Databricks
 ## Overview
 This project demonstrates how to ingest, transform, and store data from multiple sources using **Azure Data Factory**, **Databricks**, and **Delta Lake**. It follows a **Bronze → Silver → Gold** medallion architecture to ensure clean and structured data pipelines.
 
+# Business Requirements:
+1.	We have to build an end-to-end data pipeline for the retail clients.
+2.	We have data coming from multiple data sources and we need to bring the data into a data lake.
+3.	We have transaction data available in AZURE SQL DB.
+4.	We have store and products data available in AZURE SQL DB.
+5.	We have customer data coming from API - JSON FORMAT.
+
+
 ## Project Components
 
 ### Bronze Layer
@@ -59,6 +67,9 @@ README.md <- Project documentation
 
 ## Results / Screenshots
 <img width="1908" height="787" alt="image" src="https://github.com/user-attachments/assets/d3b1b3c2-baed-4a78-8aa5-535bd71e424b" />
+
+<img width="1900" height="958" alt="image" src="https://github.com/user-attachments/assets/a68b0440-580c-494d-affe-b7bd415fc87d" />
+
 
 
 ---
