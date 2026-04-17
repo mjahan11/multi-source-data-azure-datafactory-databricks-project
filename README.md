@@ -73,10 +73,6 @@ README.md <- Project documentation
 <img width="1439" height="813" alt="dashboard" src="https://github.com/user-attachments/assets/0d1eee82-620b-4f92-a034-15e37b9fd902" />
 
 
-<img width="1892" height="922" alt="image" src="https://github.com/user-attachments/assets/7a148c23-ae01-4309-bbdf-1969f5995765" />
-
-
-
 ---
 
 ## Author
