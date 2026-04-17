@@ -2,6 +2,8 @@
 Data engineering project using Azure Data Factory &amp; Databricks
 
 # Medallion Architecture for End-to-End Data Flow
+<img width="1334" height="680" alt="project image1" src="https://github.com/user-attachments/assets/b5785abc-c8c1-4257-9ea6-716830505e29" />
+
 <img width="1696" height="608" alt="Gemini_Generated_Image_e96d9ae96d9ae96d" src="https://github.com/user-attachments/assets/11b95024-fbe8-42bf-8c46-2507e8697534" />
 
 
