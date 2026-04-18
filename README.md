@@ -70,7 +70,8 @@ README.md <- Project documentation
 <img width="1908" height="787" alt="image" src="https://github.com/user-attachments/assets/d3b1b3c2-baed-4a78-8aa5-535bd71e424b" />
 
 # PowerBI Dashboard: 
-<img width="1439" height="813" alt="dashboard" src="https://github.com/user-attachments/assets/0d1eee82-620b-4f92-a034-15e37b9fd902" />
+<img width="1441" height="799" alt="image" src="https://github.com/user-attachments/assets/88f794be-2de5-4b21-8ed9-8ba9a11d5ed3" />
+
 
 
 ---
