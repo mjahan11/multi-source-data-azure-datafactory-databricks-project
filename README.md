@@ -16,17 +16,17 @@ This project demonstrates how to ingest, transform, and store data from multiple
 
 ## Project Components
 
-# Bronze Layer
+## Bronze Layer
 - Ingests raw data from multiple sources (SQL Database and API in JSON format)
 - Stores the original data in Azure Data Lake Storage (ADLS) for future use
 - No data transformations are applied
 
-# Silver Layer
+## Silver Layer
 - Performs data cleaning and transformation using Databricks and SQL
 - Manages data type conversions, null values, and duplicate records
 - Prepares structured data for analytics and reporting
 
-# Gold Layer
+## Gold Layer
 - Contains aggregated, business-ready datasets
 - Combines multiple Silver layer tables
 - Delivers the final data for Power BI dashboards
