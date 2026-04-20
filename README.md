@@ -49,7 +49,8 @@ This project demonstrates how to ingest, transform, and store data from multiple
 - config/ <- Configuration files (if any)
 - README.md <- Project documentation
 
-<img width="931" height="245" alt="image" src="https://github.com/user-attachments/assets/62bcd7fd-c339-4aeb-a405-f4d44ab490d9" />
+<img width="417" height="230" alt="image" src="https://github.com/user-attachments/assets/4e3c20e6-da89-499b-90f3-10be2ca9525f" />
+
 
 ---
 
