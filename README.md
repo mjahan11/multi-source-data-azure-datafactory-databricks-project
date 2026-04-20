@@ -44,10 +44,10 @@ This project demonstrates how to ingest, transform, and store data from multiple
 ---
 
 ## Folder Structure
-notebooks/ <- Databricks notebooks for Bronze, Silver, and Gold layers
-scripts/ <- Python / PySpark scripts
-config/ <- Configuration files (if any)
-README.md <- Project documentation
+- notebooks/ <- Databricks notebooks for Bronze, Silver, and Gold layers
+- scripts/ <- Python / PySpark scripts
+- config/ <- Configuration files (if any)
+- README.md <- Project documentation
 
 
 ---
