@@ -9,38 +9,35 @@ Data engineering project using Azure Data Factory &amp; Databricks
 This project demonstrates how to ingest, transform, and store data from multiple sources using **Azure Data Factory**, **Databricks**, and **Delta Lake**. It follows a **Bronze → Silver → Gold** medallion architecture to ensure clean and structured data pipelines.
 
 # Business Requirements:
-1.	We have to build an end-to-end data pipeline for the retail clients.
-2.	We have data coming from multiple data sources and we need to bring the data into a data lake.
-3.	We have transaction data available in AZURE SQL DB.
-4.	We have store and products data available in AZURE SQL DB.
-5.	We have customer data coming from API - JSON FORMAT.
-
+1- Develop an end-to-end data pipeline for retail clients.
+2- Ingest data from multiple sources and consolidate it into a data lake.
+3- Transaction, store, and product data are available in Azure SQL Database.
+4- Customer data is received from an API in JSON format.
 
 ## Project Components
 
-### Bronze Layer
-- Raw data ingestion from multiple sources (SQL DATABASE,API-JSON)
-- Stores original data in Azure Data Lake Storage (ADLS) for future reference
-- No transformations applied
+# Bronze Layer
+- Ingests raw data from multiple sources (SQL Database and API in JSON format)
+- Stores the original data in Azure Data Lake Storage (ADLS) for future use
+- No data transformations are applied
 
-### Silver Layer
-- Data cleaning and transformation using Databricks and PySpark
-- Handles data type conversions, null handling, and deduplication
-- Prepares data for analytics and reporting
+# Silver Layer
+- Performs data cleaning and transformation using Databricks and SQL
+- Manages data type conversions, null values, and duplicate records
+- Prepares structured data for analytics and reporting
 
-### Gold Layer
-- Aggregated and business-ready datasets
-- Joins multiple Silver tables
-- Provides final output for Power BI dashboards 
-
+# Gold Layer
+- Contains aggregated, business-ready datasets
+- Combines multiple Silver layer tables
+- Delivers the final data for Power BI dashboards
 ---
 
 ## Tools & Technologies
 - **Azure Data Factory** – Orchestrates data pipelines
 - **Azure Storage Account (ADLS Gen2)** – Stores raw, clean, and processed data
-- **Databricks** – Data transformation and processing using PySpark
-- **Delta Lake** – Maintains ACID-compliant tables
-- **Python / PySpark** – Scripts and notebook transformations
+- **Databricks** – Data transformation and processing using PySpark and SQL
+- **Delta Lake** – Ensures ACID-compliant data storage
+- **Python / PySpark / SQL** – Used for scripting and performing data transformations in notebooks
 
 ---
 
