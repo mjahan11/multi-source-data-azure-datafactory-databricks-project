@@ -50,7 +50,7 @@ This project demonstrates how to ingest, transform, and store data from multiple
 - README.md <- Project documentation
 
 <img width="931" height="245" alt="image" src="https://github.com/user-attachments/assets/62bcd7fd-c339-4aeb-a405-f4d44ab490d9" />
-```text
+
 notebooks/
 ├── 01_bronze/
 │   └── ingest_from_source.py
