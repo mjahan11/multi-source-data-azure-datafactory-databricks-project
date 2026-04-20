@@ -10,10 +10,10 @@ This project demonstrates how to ingest, transform, and store data from multiple
 
 ## Business Requirements:
 
-1- Develop an end-to-end data pipeline for retail clients.
-2- Ingest data from multiple sources and consolidate it into a data lake.
-3- Transaction, store, and product data are available in Azure SQL Database.
-4- Customer data is received from an API in JSON format.
+- Develop an end-to-end data pipeline for retail clients.
+-  Ingest data from multiple sources and consolidate it into a data lake.
+- Transaction, store, and product data are available in Azure SQL Database.
+- Customer data is received from an API in JSON format.
 
 
 ## Project Components
