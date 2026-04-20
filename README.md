@@ -70,6 +70,15 @@ This project demonstrates how to ingest, transform, and store data from multiple
 # Azure Pipeline Activity:
 <img width="1908" height="787" alt="image" src="https://github.com/user-attachments/assets/d3b1b3c2-baed-4a78-8aa5-535bd71e424b" />
 
+## Azure Databricks Implementation: Ingestion to Aggregation
+
+📥 Raw Data Ingestion & Bronze Layer Connectivity
+<img width="1461" height="676" alt="screen1" src="https://github.com/user-attachments/assets/92c2aaff-7966-497e-930c-ab0393738620" />
+🔄 Data Transformation & Silver Layer Modeling
+<img width="1572" height="606" alt="screen3" src="https://github.com/user-attachments/assets/4ac98635-26ce-431f-ab84-83d798cf3d45" />
+📈 Business Logic & Gold Layer Aggregations
+<img width="1552" height="755" alt="screen5" src="https://github.com/user-attachments/assets/7c1fb608-61f3-4186-a2ae-c0d8c39cea85" />
+
 # PowerBI Dashboard: 
 <img width="1441" height="799" alt="image" src="https://github.com/user-attachments/assets/88f794be-2de5-4b21-8ed9-8ba9a11d5ed3" />
 
