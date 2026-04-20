@@ -49,8 +49,9 @@ This project demonstrates how to ingest, transform, and store data from multiple
 - config/ <- Configuration files (if any)
 - README.md <- Project documentation
 
-<img width="906" height="247" alt="image" src="https://github.com/user-attachments/assets/eb7bc9f8-149d-47b0-9c6d-aad5f133d5cf" />
 
+## ADLS folder structure (Bronze/Silver/Gold): 
+<img width="906" height="247" alt="image" src="https://github.com/user-attachments/assets/eb7bc9f8-149d-47b0-9c6d-aad5f133d5cf" />
 
 
 ---
