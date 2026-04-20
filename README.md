@@ -45,6 +45,13 @@ This project demonstrates how to ingest, transform, and store data from multiple
 
 ## Folder Structure
 - notebooks/ <- Databricks notebooks for Bronze, Silver, and Gold layers
+- notebooks/
+├── 01_bronze/
+│   └── ingest_from_source.py
+├── 02_silver/
+│   └── transform_and_clean.py
+└── 03_gold/
+    └── aggregate_for_bi.py
 - scripts/ <- Python / PySpark scripts
 - config/ <- Configuration files (if any)
 - README.md <- Project documentation
